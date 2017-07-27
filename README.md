@@ -1,1 +1,1 @@
-# cognat-desktop
+# COGNAT
